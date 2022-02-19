@@ -1,2 +1,3 @@
 # CarWash
-this is the car wash company wesite front end
+this is the car wash company webite front end
+created with HTML,CSS,Bootstrap
