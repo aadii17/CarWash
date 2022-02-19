@@ -1,0 +1,146 @@
+/* fonts */
+
+@font-face {
+    font-family: Rowdies-Regular;
+    src: url(fonts/Rowdies-Regular.ttf);
+}
+@font-face {
+    font-family: Rowdies-Bold;
+    src: url(fonts/Rowdies-Bold.ttf);
+}
+@font-face {
+    font-family: Rowdies-light;
+    src: url(fonts/Rowdies-light.ttf);
+}
+
+/* body */
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* top-bar */
+
+#topbar{
+    background-color: #0b4b8a;
+    padding-top: 2px;
+    padding-bottom: 2x;
+    overflow: auto;
+    color: #cedbe8;
+}
+#top{
+    float: left;
+}
+#top-right{
+    float: right;
+    color: #cedbe8;
+    margin: 0;
+}
+
+.uni-padding{
+    padding: 0 2%;
+}
+
+/* nav-bar */
+
+#logo-caption{
+    color: #999999;
+}
+
+#logo{
+    margin: 0;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+#nav-bar{
+    overflow: auto;
+}
+
+#caption{
+    color: #cedbe8;
+}
+
+/* carousel */
+#starting-from{
+    font-family: Rowdies-light;
+    background-color: yellow;
+    color: black;
+}
+#carousel{
+    height: 400px;
+    width: 500px;
+}
+
+ /* card */
+
+#card{
+    background: #0b4b8a;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#card-p{
+    color: #ffffff;
+    text-align: center;
+}
+
+#card-Button{
+    margin-left: 27%;
+}
+
+#appointment{
+    background-color: #0b4b8a;
+    color: #ffffff;
+    height: 250px;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+  
+.column img {
+    margin-top: 12px;
+}
+
+#my-card{
+    padding: 5px;
+    margin-left: 4%;
+}
+
+/* our-mission */
+
+#accordian{
+    margin-top: 5%;
+}
+
+/* Testimonials Carousel */
+
+#Testimonials{
+    background-color:#f2f3f3;
+    padding-top : 3%;
+    padding-bottom: 5%;
+}
+
+#Testimonials-a{
+    padding-top: 3%;
+}
+
+#icons{
+    color: #f9df03;
+}
+
+ /* footer */
+#footer-1{
+    background-image: url(images/blue.png);
+    
+}
+
+
+
